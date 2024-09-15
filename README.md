@@ -51,7 +51,7 @@ Key visualizations include:
 ### **Detailed Analysis**
 This screenshot provides a deeper analysis of the sales data, focusing on profitability and other key metrics:
 
-[Detailed Analysis][Sales performance dashboard- detailed analysis](https://github.com/user-attachments/assets/b25e6bf0-d8c1-40d6-909e-b822e3d58316]
+[Detailed Analysis][Sales performance dashboard- detailed analysis](https://github.com/user-attachments/assets/b25e6bf0-d8c1-40d6-909e-b822e3d58316)
 
 - **Profit by Category**: A waterfall chart showing profit increase or decrease across different product categories.
 - **Sales vs. Profit for Each Product**: A scatter plot analyzing the relationship between sales and profit for individual products, categorized by product type (Furniture, Office Supplies, Technology).
