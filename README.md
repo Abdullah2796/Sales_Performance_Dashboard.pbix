@@ -36,7 +36,7 @@ This project presents a comprehensive Power BI dashboard that visualizes sales d
 ### **Dashboard Overview**
 This screenshot showcases the overall performance metrics of the sales data:
 
-[Dashboard Overview] ([Sales performance dashboard- overview ](https://github.com/user-attachments/assets/26357dac-dad0-4cf0-a6e6-7b9da921fe27))
+[Dashboard Overview] [Sales performance dashboard- overview ]!(https://github.com/user-attachments/assets/26357dac-dad0-4cf0-a6e6-7b9da921fe27)
 - **Total Sales**: AED2.3M
 - **Total Profit**: AED286.40K
 - **Average Order Value**: AED229.9
